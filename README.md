@@ -26,5 +26,5 @@
 
 ### Contact
 - Please read our TOS before buying. Dont forget to leave a star
-- DM `Priyanshu...!🥂#1000` To Buy This Gen
+- DM `czador59#8530` To Buy This Gen
 - [Join](https://discord.gg/seesh)
