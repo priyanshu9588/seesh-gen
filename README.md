@@ -24,10 +24,10 @@
 * Random/custom bio
 
 
-**### Note: We don't not support API abuse and we are not responsible for what you do with this tool.**
+###**Note: We don't not support API abuse and we are not responsible for what you do with this tool.**
 
 
-- Please read our TOS before buying.
+- Please read our TOS before buying. Dont forget to leave a star
 
 
 DM `Priyanshu...!🥂#1000` To Buy This Gen
