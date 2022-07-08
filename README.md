@@ -7,7 +7,7 @@
   <h2 align="center">Discorf Token Generator (Seesh)</h3>
 
   <p align="center">
-    Discord token Generator that bypasses captcha! 
+    Discord Free token Generator that bypasses captcha! 
     <br />
     <br />
     <a href="https://github.com/priyanshu9588/seesh-gen/issues">Request Feature</a>
@@ -25,6 +25,5 @@
 
 
 ### Contact
-- Please read our TOS before buying. Dont forget to leave a star
-- DM `czador59#8530` To Buy This Gen
+- Please read our TOS before using. Dont forget to leave a star
 - [Join](https://discord.gg/seesh)
