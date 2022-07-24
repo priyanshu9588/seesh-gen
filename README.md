@@ -26,4 +26,4 @@
 
 ### Contact
 - Please read our TOS before using. Dont forget to leave a star
-- [Join](https://discord.gg/seesh)
+- [Join](https://discord.gg/imperfect)
