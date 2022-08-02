@@ -19,7 +19,6 @@
 * Advanced proxy support 
 * Generates 200+ accounts/Per Min
 * Random/custom usernames
-* Random/custom avatar 
 * Random/custom status
 * Random/custom bio
 
